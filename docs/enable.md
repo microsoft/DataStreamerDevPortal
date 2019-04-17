@@ -8,4 +8,4 @@ To Enable Data Streamer in Excel:
 4. Check the box for **Microsoft Data Streamer for Excel**
 
 You should now see the **Data Streamer** tab in the **Excel** ribbon.
-![Ribbon](https://github.com/Microsoft/DataStreamerDevPortal/docs/ribbon.PNG)
+![Ribbon](https://github.com/Microsoft/DataStreamerDevPortal/blob/master/docs/ribbon.PNG)
