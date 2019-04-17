@@ -7,5 +7,5 @@ Supported devices include microcontrollers such as Arduino Uno, micro:bit, Circu
 Data Streamer is a bidirectional data transfer utility that streams data between Excel and a microcontroller via the serial port, or app to app via UWP app service. This connection provides interactivity between a data source and the powerful calculation engine of Microsoft Excel. By using a set of commands and techniques users can design highly interactive Excel dashboards to visualize data and control program flow. 
 
 1. [Data Streamer Overiew]()
-2. [Enabling Data Streamer]()
+2. [Enabling Data Streamer](https://microsoft.github.io/DataStreamerDevPortal/enable)
 3. 
