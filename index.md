@@ -1,6 +1,7 @@
 # Data Streamer Developer Portal
 ## What is Data Streamer? 
-Data Streamer is a COM Add-in for Microsoft Excel that allows users to stream low latency data into Microsoft Excel from connected devices and apps. Examples of projects developed with Data Streamer include the Hacking STEM portfolio of middle-school level STEM lessons available at: https://aka.ms/hackingstem 
+Data Streamer is a COM Add-in for Microsoft Excel that allows users to stream low latency data into Microsoft Excel from connected devices and apps. Examples of projects developed with Data Streamer include the Hacking STEM portfolio of middle-school level STEM lessons available at: [https://aka.ms/hackingstem](https://aka.ms/hackingstem){:target="_blank"}
+<a href="https://aka.ms/hackingstem" target="_blank">https://aka.ms/hackingstem</a>
 
 Supported devices include microcontrollers such as Arduino Uno, micro:bit, Circuit Playground, MXChip Azure IoT DevKit, and any other serial capable device. Windows 10 UWP Apps can connect to Data Streamer via an App Service. 
 ## What does Data Streamer do? 
