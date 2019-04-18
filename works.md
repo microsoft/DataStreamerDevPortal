@@ -12,10 +12,10 @@ Streaming data is injected into a range in the Data In worksheet. This range is 
 Data that is entered into the active range in the Data Out worksheet is packaged in CSV format and sent to the connected device or app. 
 
 ## Settings
-Sets the parameters for the Data In and Data Out ranges and user settings. For more information go here. 
+Sets the parameters for the Data In and Data Out ranges and user settings. For more information go [here](){:target="_blank"}. 
 
 ## Advanced Window
-Use the Advanced Window to manage device settings, view the serial data console, or to change global user settings. For more information go here.
+Use the Advanced Window to manage device settings, view the serial data console, or to change global user settings. For more information go [here](){:target="_blank"}.
 
 ***
 ### Navigation
