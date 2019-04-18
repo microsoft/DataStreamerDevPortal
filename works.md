@@ -1,5 +1,5 @@
 # How Data Streamer Works
-Data Streamer connects to a data source which can be a serial device, such as the Arduino UNO microcontroller, or a Windows 10 app via a UWP App Service. The data source collects data and packages it into a CSV format and sends the data at a frequency to Data Streamer. Data Streamer displays the data into an Excel worksheet. Data can also be sent from Excel to the device or app.
+Data Streamer connects to a data source which can be a serial device, such as the Arduino UNO microcontroller, or a Windows 10 app via a UWP (Universal Windows App) App Service. The data source collects data and packages it into a CSV format and sends the data at a frequency to Data Streamer. Data Streamer displays the data into an Excel worksheet. Data can also be sent from Excel to the device or app.
 
 ![Flow Chart](https://raw.githubusercontent.com/Microsoft/DataStreamerDevPortal/master/docs/DataStreamerAddInDiagram2.jpg)
 
@@ -16,11 +16,12 @@ Sets the parameters for the Data In and Data Out ranges and user settings. For m
 
 ## Advanced Window
 Use the Advanced Window to manage device settings, view the serial data console, or to change global user settings. For more information go here.
+
 ***
 ### Navigation
 1. [Home](https://microsoft.github.io/DataStreamerDevPortal)
 2. [Enabling Data Streamer](https://microsoft.github.io/DataStreamerDevPortal/enable)
 3. [How Data Streamer Works](https://microsoft.github.io/DataStreamerDevPortal/works)
-4. [UWP Code Sample](https://github.com/Microsoft/DataStreamerSamples)
-5. [Arduino Code Sample](https://github.com/Microsoft/HackingSTEMSamples)
+4. [UWP Code GitHub Sample](https://github.com/Microsoft/DataStreamerSamples){:target="_blank"}
+5. [Arduino Code GitHub Sample](https://github.com/Microsoft/HackingSTEMSamples){:target="_blank"}
 6. [Useful Links](https://microsoft.github.io/DataStreamerDevPortal/links)

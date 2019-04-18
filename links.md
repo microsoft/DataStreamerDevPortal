@@ -1,10 +1,10 @@
 # Useful Links
 ## Data Streamer
-* Data Streamer Home Page: [What is Data Streamer](https://aka.ms/data-streamer)
-* Enable Data Streamer : [Enable Data Streamer](https://support.office.com/en-us/article/what-is-data-streamer-1d52ffce-261c-4d7b-8017-89e8ee2b806f?ui=en-US&rs=en-US&ad=US)
-* Hacking STEM lesson library: [Sensor library](https://www.microsoft.com/en-us/education/education-workshop/activity-library.aspx)
-* Using Data Streamer in Excel : [PowerPoint on HackingSTEM techniques](https://aka.ms/hackingstem-excel-training-powerpoint)
-* Using MakeCode : [How to enable Data Streamer Extension in MakeCode](https://makecode.microbit.org/pkg/microsoft/pxt-hacking-stem)
+* Data Streamer Home Page: [What is Data Streamer](https://aka.ms/data-streamer){:target="_blank"}
+* Enable Data Streamer : [Enable Data Streamer](https://support.office.com/en-us/article/what-is-data-streamer-1d52ffce-261c-4d7b-8017-89e8ee2b806f?ui=en-US&rs=en-US&ad=US){:target="_blank"}
+* Hacking STEM lesson library: [Sensor library](https://www.microsoft.com/en-us/education/education-workshop/activity-library.aspx){:target="_blank"}
+* Using Data Streamer in Excel : [PowerPoint on HackingSTEM techniques](https://aka.ms/hackingstem-excel-training-powerpoint){:target="_blank"}
+* Using MakeCode : [How to enable Data Streamer Extension in MakeCode](https://makecode.microbit.org/pkg/microsoft/pxt-hacking-stem){:target="_blank"}
 
 ## Office Setup
 * Office 365 Education: Get up for O365 Education
@@ -39,6 +39,6 @@ After the 3rd application has been installed and you have enabled Data Streamer 
 1. [Home](https://microsoft.github.io/DataStreamerDevPortal)
 2. [Enabling Data Streamer](https://microsoft.github.io/DataStreamerDevPortal/enable)
 3. [How Data Streamer Works](https://microsoft.github.io/DataStreamerDevPortal/works)
-4. [UWP Code Sample](https://github.com/Microsoft/DataStreamerSamples)
-5. [Arduino Code Sample](https://github.com/Microsoft/HackingSTEMSamples)
+4. [UWP Code GitHub Sample](https://github.com/Microsoft/DataStreamerSamples){:target="_blank"}
+5. [Arduino Code GitHub Sample](https://github.com/Microsoft/HackingSTEMSamples){:target="_blank"}
 6. [Useful Links](https://microsoft.github.io/DataStreamerDevPortal/links)

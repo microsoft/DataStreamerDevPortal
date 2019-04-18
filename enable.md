@@ -16,7 +16,7 @@ Data Streamer comes with Excel O365 Desktop. It is not supported in S Mode yet (
 
 ### Version check
 We currently are supported in version 1902 or higher ( and Build 11328.20140 and newer)
-To check for Office Version follow the steps [here](https://support.office.com/en-gb/article/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
+To check for Office Version follow the steps [here](https://support.office.com/en-gb/article/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19){:target="_blank"}
 ### Channel support
 We are currently only in Monthly Channel and Semi Targeted Channel, Semi Annual will be there in July Fork
 ***
@@ -24,6 +24,6 @@ We are currently only in Monthly Channel and Semi Targeted Channel, Semi Annual 
 1. [Home](https://microsoft.github.io/DataStreamerDevPortal)
 2. [Enabling Data Streamer](https://microsoft.github.io/DataStreamerDevPortal/enable)
 3. [How Data Streamer Works](https://microsoft.github.io/DataStreamerDevPortal/works)
-4. [UWP Code Sample](https://github.com/Microsoft/DataStreamerSamples)
-5. [Arduino Code Sample](https://github.com/Microsoft/HackingSTEMSamples)
+4. [UWP Code GitHub Sample](https://github.com/Microsoft/DataStreamerSamples){:target="_blank"}
+5. [Arduino Code GitHub Sample](https://github.com/Microsoft/HackingSTEMSamples){:target="_blank"}
 6. [Useful Links](https://microsoft.github.io/DataStreamerDevPortal/links)
