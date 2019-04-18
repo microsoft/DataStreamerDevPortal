@@ -5,17 +5,21 @@
 * Hacking STEM lesson library: [Sensor library](https://www.microsoft.com/en-us/education/education-workshop/activity-library.aspx)
 * Using Data Streamer in Excel : [PowerPoint on HackingSTEM techniques](https://aka.ms/hackingstem-excel-training-powerpoint)
 * Using MakeCode : [How to enable Data Streamer Extension in MakeCode](https://makecode.microbit.org/pkg/microsoft/pxt-hacking-stem)
+
 ## Office Setup
-	· Office 365 Education: Get up for O365 Education
-	· Office Insiders: Early builds of Office
+* Office 365 Education: Get up for O365 Education
+* Office Insiders: Early builds of Office
+
 ## App Service / Desktop Conversion
-	· App Service Overview: How to create and consume an app service
-	· Desktop Bridge: Converting Desktop to UWP
-	· Electron: Enable Background tasks in Electron
-	· Data Streamer App Service Sample: UWP App Sample 
+* App Service Overview: How to create and consume an app service
+* Desktop Bridge: Converting Desktop to UWP
+* Electron: Enable Background tasks in Electron
+* Data Streamer App Service Sample: UWP App Sample
+
 ## Microsoft Store Publishing
-	· Publishing to Microsoft Store: How to publish to the Microsoft Store
-	· Beta Testing and targeted distribution: Beta testing your app
+* Publishing to Microsoft Store: How to publish to the Microsoft Store
+* Beta Testing and targeted distribution: Beta testing your app
+
 ## Connecting to External App
 After the 3rd application has been installed and you have enabled Data Streamer follow these steps to connect and stream data to Excel
 1. Open Excel
