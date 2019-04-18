@@ -16,3 +16,11 @@ Sets the parameters for the Data In and Data Out ranges and user settings. For m
 
 ## Advanced Window
 Use the Advanced Window to manage device settings, view the serial data console, or to change global user settings. For more information go here.
+
+### Navigation
+1. [Home](https://microsoft.github.io/DataStreamerDevPortal)
+2. [Enabling Data Streamer](https://microsoft.github.io/DataStreamerDevPortal/enable)
+3. [How Data Streamer Works](https://microsoft.github.io/DataStreamerDevPortal/works)
+4. [UWP Code Sample](https://github.com/Microsoft/DataStreamerSamples)
+5. [Arduino Code Sample](https://github.com/Microsoft/HackingSTEMSamples)
+6. [Useful Links](https://microsoft.github.io/DataStreamerDevPortal/links)

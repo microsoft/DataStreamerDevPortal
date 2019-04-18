@@ -33,3 +33,11 @@ After the 3rd application has been installed and you have enabled Data Streamer 
 9. Data In , will receive data from the 3rd party app
 10. Data Out , will pass data to the 3rd party app ( if supported by the 3rd party app)
 11. Settings will configure, how much data and frequency of the data coming from the app
+
+### Navigation
+1. [Home](https://microsoft.github.io/DataStreamerDevPortal)
+2. [Enabling Data Streamer](https://microsoft.github.io/DataStreamerDevPortal/enable)
+3. [How Data Streamer Works](https://microsoft.github.io/DataStreamerDevPortal/works)
+4. [UWP Code Sample](https://github.com/Microsoft/DataStreamerSamples)
+5. [Arduino Code Sample](https://github.com/Microsoft/HackingSTEMSamples)
+6. [Useful Links](https://microsoft.github.io/DataStreamerDevPortal/links)
